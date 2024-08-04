@@ -10,7 +10,7 @@ def certificates_section():
     iatf_apqp = 'certificates/iatf_202303apqp.png'
     iatf_internalauditor = 'certificates/iatf_201904 InternalAuditor.jpg'
     safety_firstaid = 'certificates/safety_202312firstaid.jpg'
-    safety_ergonomic = 'certificates/safety_202308ergonomic.png'
+    safety_ergonomic = 'certificates/safety_202308ergonomic.PNG'
     safety_firefighting = 'certificates/safety_201901firefighting.jpg'
     system_sysadmin = 'certificates/system_202301sysadmin.png'
     system_excel= 'certificates/system_202301excel.png'
