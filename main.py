@@ -20,7 +20,7 @@ if selected == "Home":
         st.header ("|:blue[Project Manufacturer] |:blue[IATF Project]")
         st.header ("|:blue[Data Analysis]")
         st.header ("from :blue[Johor Bahru], :blue[Malaysia]")
-        st.write(":white[Nearly a decade of experience in product/process manufacturing, especially rubber. Led efforts to meet automotive/IATF needs. Coordinated manufacturing systems & data analysis (Excel, Power Query). Participated in ISO 9001 & IATF 16949 internal audits to ensure compliance.]")
+        st.write("Nearly a decade of experience in product/process manufacturing, especially rubber. Led efforts to meet automotive/IATF needs. Coordinated manufacturing systems & data analysis (Excel, Power Query). Participated in ISO 9001 & IATF 16949 internal audits to ensure compliance.")
     with col2:
         st.image(profile, caption='Nice to meet you.')
 
